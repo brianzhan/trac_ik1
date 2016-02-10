@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "trac_ik_examples")
+set(trac_ik_examples_MAINTAINER "Patrick Beeson <pbeeson@traclabs.com>")
+set(trac_ik_examples_DEPRECATED "")
+set(trac_ik_examples_VERSION "1.4.1")
+set(trac_ik_examples_BUILD_DEPENDS "trac_ik_lib")
+set(trac_ik_examples_RUN_DEPENDS "trac_ik_lib" "pr2_description")
+set(trac_ik_examples_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ada_launch")
+set(ada_launch_MAINTAINER "Chris Dellin <cdellin@gmail.com>")
+set(ada_launch_DEPRECATED "")
+set(ada_launch_VERSION "0.0.0")
+set(ada_launch_BUILD_DEPENDS )
+set(ada_launch_RUN_DEPENDS "mico_hardware" "pr_ros_controllers" "ada_description")
+set(ada_launch_BUILDTOOL_DEPENDS "catkin")

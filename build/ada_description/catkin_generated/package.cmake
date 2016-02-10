@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ada_description")
+set(ada_description_MAINTAINER "Tekin Mericli <tekin@cmu.edu>")
+set(ada_description_DEPRECATED "")
+set(ada_description_VERSION "0.0.0")
+set(ada_description_BUILD_DEPENDS )
+set(ada_description_RUN_DEPENDS "or_urdf" "xacro")
+set(ada_description_BUILDTOOL_DEPENDS "catkin")

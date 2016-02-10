@@ -1,0 +1,2 @@
+ada_description:ada_launch:trac_ik_examples:trac_ik_lib
+-DCATKIN_DEVEL_PREFIX=/home/brianzhan/trac_ik/devel -DCMAKE_INSTALL_PREFIX=/home/brianzhan/trac_ik/install -G Unix Makefiles

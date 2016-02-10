@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "trac_ik_lib")
+set(trac_ik_lib_MAINTAINER "Patrick Beeson <pbeeson@traclabs.com>")
+set(trac_ik_lib_DEPRECATED "")
+set(trac_ik_lib_VERSION "1.4.1")
+set(trac_ik_lib_BUILD_DEPENDS "roscpp" "urdf" "kdl_parser" "eigen_conversions" "libnlopt-dev")
+set(trac_ik_lib_RUN_DEPENDS "roscpp" "urdf" "kdl_parser" "libnlopt0")
+set(trac_ik_lib_BUILDTOOL_DEPENDS "catkin")

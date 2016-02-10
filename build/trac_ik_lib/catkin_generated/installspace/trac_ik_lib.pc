@@ -1,0 +1,8 @@
+prefix=/home/brianzhan/trac_ik/install
+
+Name: trac_ik_lib
+Description: Description of trac_ik_lib
+Version: 1.4.1
+Cflags: -I/home/brianzhan/trac_ik/install/include
+Libs: -L/home/brianzhan/trac_ik/install/lib -ltrac_ik
+Requires: roscpp

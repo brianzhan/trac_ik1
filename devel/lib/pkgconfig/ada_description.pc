@@ -1,0 +1,8 @@
+prefix=/home/brianzhan/trac_ik/devel
+
+Name: ada_description
+Description: Description of ada_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/brianzhan/trac_ik/devel/lib 
+Requires: 
